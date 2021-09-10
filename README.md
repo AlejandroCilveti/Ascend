@@ -14,4 +14,6 @@ It is needed and acces key connected to a database in https://keyauth.com/ becau
 
 I connected the program to a discord server, if you want to join, here is the link: https://discord.gg/S4PAqTUp2g
 
+For a reason that I don't know about it says that the executable has a virus. IT DOESN'T xd. Well, you can always compile the program by yourself and check it out.
+
 Hope you like it!
